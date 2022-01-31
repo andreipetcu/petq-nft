@@ -1,18 +1,18 @@
 {
-    "title": "Banana Bread",
+    "title": "PETQ1",
     "type": "object",
     "properties": {
         "name": {
             "type": "string",
-            "description": "Banana Bread"
+            "description": "PETQ BOSS"
         },
         "description": {
             "type": "string",
-            "description": "Banana Bread"
+            "description": "PETQ BAWS"
         },
         "image": {
             "type": "string",
-            "description": "https://petq-nft.netlify.app/1.png"
+            "description": "https://petq-nft.netlify.app/1.jpeg"
         }
     }
 }
